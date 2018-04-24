@@ -1,0 +1,5 @@
+Host *
+    UseRoaming no
+    ServerAliveInterval 60
+    GatewayPorts yes
+    ExitOnForwardFailure yes
